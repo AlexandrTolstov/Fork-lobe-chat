@@ -53,3 +53,5 @@ merge
 ```sh 
 checkout <branch name>
 ```
+
+Инструкция
